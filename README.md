@@ -85,7 +85,7 @@ Looking to hire Python developers? Check:
 
 ## ✅ **Deployment**
 The API is deployed on **Render** and publicly accessible at:  
-👉 `https://hng-api.onrender.com`
+👉 `https://hng-api-daxd.onrender.com`
 
 ---
 

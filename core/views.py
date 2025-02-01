@@ -11,4 +11,4 @@ def public_api(request):
         "current_datetime": now().isoformat(),
         "github_url": "https://github.com/nobleenia/hng-api.git"
     }
-    return JsonResponse(data)
+    return JsonResponse(data, json_dumps_params={'indent': 2})
